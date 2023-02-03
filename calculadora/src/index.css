@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300;400&display=swap");
+
+* {
+  font-family: "RobotoMono", monospace;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 100;
+  margin-bottom: 1em;
+}
+
+section {
+  flex-direction: column;
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  color: #fff;
+  background: linear-gradient(to right, rgb(100, 65, 165), rgb(42, 8, 69));
+}
