@@ -1,4 +1,5 @@
 # Calculadora
+![Badge Projeto finalizado](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge)
 
 ## Sobre
 
